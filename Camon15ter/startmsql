@@ -1,0 +1,4 @@
+#!/usr/var/run/mysqld.sock
+
+mysqld &
+mariadb
